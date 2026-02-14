@@ -1,6 +1,5 @@
 """
-Supply Chain Visualization Script
-Creates comprehensive visualizations for supply chain analytics
+Supply Chain Visualization
 """
 
 import pandas as pd
